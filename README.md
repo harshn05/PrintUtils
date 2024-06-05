@@ -5,5 +5,7 @@ This C++ header-only class provides a utility for printing various data structur
 
 The operator<< overloads allow for easy printing of vectors, vectors of arrays, and matrices (vectors of vectors) to the console. Each method in the CSV class opens a file with the provided filename, writes the data structure to it in CSV format, and then closes the file. The methods are templated, allowing for use with any data type that can be written to a std::ostream.
 
+![Click here for the detailed documentation.](https://harshn05.github.io/PrintUtils/md__c_1_2_users_2harshn_2_desktop_2_print_utils_2_r_e_a_d_m_e.html)
+
 Harsh Kumar Narula
 <harsh.narula@iitbombay.org>
